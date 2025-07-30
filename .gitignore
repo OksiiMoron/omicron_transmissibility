@@ -1,0 +1,21 @@
+# Ne pratiti MATLAB figure fajlove
+*.fig
+
+# Ne pratiti slike
+*.jpg
+*.jpeg
+*.png
+
+# Ne pratiti zip arhive
+*.zip
+
+# Ne pratiti PDF fajlove
+*.pdf
+
+# Ne pratiti privremene ili backup fajlove
+*~
+*.bak
+
+# Ne pratiti sistemske fajlove
+.DS_Store
+Thumbs.db
